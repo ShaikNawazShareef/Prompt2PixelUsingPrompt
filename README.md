@@ -1,4 +1,4 @@
-# 🎨 Prompt2Pixel – AI Image Generator
+# 📷 Prompt2Pixel – AI Image Generator
 
 **Turn your imagination into pixels with AI!**
 
